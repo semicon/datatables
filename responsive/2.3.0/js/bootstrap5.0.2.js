@@ -1,36 +1,35 @@
-  const&nbsp;html&nbsp;=&nbsp;`&lt;div&nbsp;class=&quot;footer&#45;basic&quot;&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;footer&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;div&nbsp;class=&quot;social&quot;&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a&nbsp;href=&quot;https://guruchian.blogspot.com/&quot;&nbsp;target=&quot;_blank&quot;&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;i&nbsp;class=&quot;gradient&nbsp;fa&#45;brands&nbsp;fa&#45;blogger&#45;b&quot;&gt;&lt;/i&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/a&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a&nbsp;href=&quot;mailto:ph.wichian@gmail.com&quot;&nbsp;target=&quot;_blank&quot;&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;i&nbsp;class=&quot;gradient&nbsp;fa&#45;regular&nbsp;fa&#45;envelope&quot;&gt;&lt;/i&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/a&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a&nbsp;href=&quot;https://github.com/semicon&quot;&nbsp;target=&quot;_blank&quot;&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;i&nbsp;class=&quot;gradient&nbsp;fa&#45;brands&nbsp;fa&#45;github&#45;alt&quot;&gt;&lt;/i&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/a&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a&nbsp;href=&quot;https://facebook.com/ph.wichian&quot;&nbsp;target=&quot;_blank&quot;&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;i&nbsp;class=&quot;gradient&nbsp;fa&#45;brands&nbsp;fa&#45;facebook&#45;f&quot;&gt;&lt;/i&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/a&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;ul&nbsp;class=&quot;gradient&nbsp;list&#45;inline&quot;&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&nbsp;class=&quot;list&#45;inline&#45;item&quot;&nbsp;id=&quot;home2&quot;&nbsp;style=&quot;cursor:pointer&quot;&gt;Home&lt;/li&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&nbsp;class=&quot;list&#45;inline&#45;item&quot;&gt;&lt;a&nbsp;href=&quot;https://guruchian.blogspot.com/p/blog&#45;page.html&quot;&nbsp;&nbsp;target=&quot;_blank&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&nbsp;class=&quot;list&#45;inline&#45;item&quot;&gt;&lt;a&nbsp;href=&quot;https://guruchian.blogspot.com/p/donate.html&quot;&nbsp;&nbsp;target=&quot;_blank&quot;&gt;Donate&lt;/a&gt;&lt;/li&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&nbsp;class=&quot;list&#45;inline&#45;item&quot;&gt;&lt;a&nbsp;href=&quot;https://web.facebook.com/groups/672966823753293/&quot;&nbsp;&nbsp;target=&quot;_blank&quot;&gt;Terms&lt;/a&gt;&lt;/li&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&nbsp;class=&quot;list&#45;inline&#45;item&quot;&gt;&lt;a&nbsp;href=&quot;https://guruchian.blogspot.com/p/license&#45;conditions.html&quot;&nbsp;&nbsp;target=&quot;_blank&quot;&gt;License&lt;/a&gt;&lt;/li&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/ul&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;p&nbsp;class=&quot;copyright&quot;&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Site&nbsp;design&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;img&nbsp;src=&#39;https://mirrors.creativecommons.org/presskit/icons/heart.red.png&#39;&nbsp;width=&#39;25&#39;&nbsp;height=&#39;25&#39;&nbsp;alt=&#39;cc&#39;&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023&nbsp;&nbsp;by&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;a&nbsp;href=&quot;https://guruchian.blogspot.com/p/blog&#45;page.html&quot;&nbsp;target=&quot;_blank&quot;&nbsp;class=&quot;gradient&quot;&gt;&nbsp;KruChian&lt;/a&gt;&lt;br&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;user&nbsp;contributions&nbsp;licensed&nbsp;under&lt;span&nbsp;class=&quot;gradient&quot;&gt;&nbsp;CC&nbsp;BY&#45;NC&#45;SA&lt;/span&gt;.&nbsp;rev&nbsp;2023.05.20
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/p&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/footer&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/main&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;`
-&nbsp;&nbsp;&nbsp;&nbsp;document.write(html)
-/**วิเชียร&nbsp;พุ่มพวง&nbsp;(PhD)Wichian&nbsp;Phumphuang&nbsp;(PhD)عبدالعزيز&nbsp;بن&nbsp;حاج&nbsp;سليمانEducational&nbsp;Background:B.Ed.(Industrial&nbsp;Arts)M.S.Tech.Ed.(Technical&nbsp;Education&nbsp;Technology)Ph.D.(Technical&nbsp;Education&nbsp;Technology)*/
+  const html = `<div class="footer-basic">
+          <footer>
+            <div class="social">
+              <a href="https://guruchian.blogspot.com/" target="_blank">
+                <i class="gradient fa-brands fa-blogger-b"></i>
+              </a>
+              <a href="mailto:ph.wichian@gmail.com" target="_blank">
+                <i class="gradient fa-regular fa-envelope"></i>
+              </a>
+              <a href="https://github.com/semicon" target="_blank">
+                <i class="gradient fa-brands fa-github-alt"></i>
+              </a>
+              <a href="https://facebook.com/ph.wichian" target="_blank">
+                <i class="gradient fa-brands fa-facebook-f"></i>
+              </a>
+            </div>
+            <ul class="gradient list-inline">
+              <li class="list-inline-item" id="home2" style="cursor:pointer">Home</li>
+              <li class="list-inline-item"><a href="https://guruchian.blogspot.com/p/blog-page.html"  target="_blank">About</a></li>
+              <li class="list-inline-item"><a href="https://guruchian.blogspot.com/p/donate.html"  target="_blank">Donate</a></li>
+              <li class="list-inline-item"><a href="https://web.facebook.com/groups/672966823753293/"  target="_blank">Terms</a></li>
+              <li class="list-inline-item"><a href="https://guruchian.blogspot.com/p/license-conditions.html"  target="_blank">License</a></li>
+            </ul>
+            <p class="copyright">
+              Site design  
+              <img src='https://mirrors.creativecommons.org/presskit/icons/heart.red.png' width='25' height='25' alt='cc'>
+                2023  by 
+              <a href="https://guruchian.blogspot.com/p/blog-page.html" target="_blank" class="gradient"> KruChian</a><br>
+              user contributions licensed under<span class="gradient"> CC BY-NC-SA</span>. rev 2023.05.20
+            </p>
+          </footer>
+        </div>
+      </main>
+    </div>`
+    document.write(html)
