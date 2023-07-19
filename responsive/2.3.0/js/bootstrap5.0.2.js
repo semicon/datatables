@@ -145,7 +145,7 @@ const html = `<div class="footer-basic">
 </a>
 </div>
 <ul class="gradient list-inline">
-<li class="list-inline-item" style="cursor:pointer" onclick="loadPage('home')">Home</li>
+<li class="list-inline-item" onclick="loadPage('home');" style="cursor:pointer;">Home</li>
 <li class="list-inline-item"><a href="https://guruchian.blogspot.com/p/blog-page.html"  target="_blank">About</a></li>
 <li class="list-inline-item"><a href="https://guruchian.blogspot.com/p/donate.html"  target="_blank">Donate</a></li>
 <li class="list-inline-item"><a href="https://web.facebook.com/groups/672966823753293/"  target="_blank">Terms</a></li>
